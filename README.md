@@ -7,3 +7,7 @@
 - Maven 3.8.4
 - JUnit 5
 - MongoDB 6.0.13
+- Docker
+
+## Pre-requisites
+- Run MongoDB in Docker
